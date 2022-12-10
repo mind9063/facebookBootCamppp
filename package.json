@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://yourusername.github.io/repository-name",
   "dependencies": {
-    "@cra-express/core": "^4.3.0",
+    "@cra-express/core": "^5.0.2",
     "@craco/craco": "^5.2.1",
     "craco-plugin-react-hot-reload": "0.0.3",
     "gh-pages": "^2.0.1",
@@ -36,6 +36,6 @@
     ]
   },
   "devDependencies": {
-    "cra-universal": "^4.3.0"
+    "cra-universal": "^5.0.2"
   }
 }
